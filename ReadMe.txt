@@ -1,3 +1,6 @@
+The code implements diffusion options.
+“Option Discovery in the Absence of Rewards with Manifold Analysis”, A. Bar, R. Talmon and R. Meir, ICML 2020 
+
 The code is self contained and was tested using Matlab 2018b.
 
 The main file is "Main.m". It calls all the other functions and scripts.
